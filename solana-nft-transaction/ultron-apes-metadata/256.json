@@ -1,0 +1,46 @@
+{
+  "name": "Ultron Apes #256",
+  "symbol": "UA",
+  "description": "An army of 777 ape combatants living in the future find themselves smarter and more evolved than humans, and on a mission trip they discover that their existence is in trouble due to a mutation that arose after they entered a frozen refuge.",
+  "seller_fee_basis_points": 700,
+  "image": "image.png",
+  "external_url": "",
+  "edition": 256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer Beam"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5w1ixWgjtZGXBjgsWpKKDLSom1K7v9y4nvjVog9GX3YG",
+        "share": 100
+      }
+    ]
+  }
+}
